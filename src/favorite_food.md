@@ -1,4 +1,5 @@
 # favorite food
 
-appled
-oranged
+appling
+oranging
+
